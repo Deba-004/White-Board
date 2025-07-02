@@ -1,0 +1,9 @@
+.textArea {
+    @apply fixed border-none outline-none bg-transparent resize-none p-0 m-0 overflow-hidden text-inherit;
+    width: auto;
+    height: auto;
+    font-size: inherit;
+    font-family: inherit;
+    line-height: inherit;
+    font-family: "Caveat";
+}
